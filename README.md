@@ -1,4 +1,6 @@
-# model-project
+# Reaction Timer
+
+This web application is based on VUE.JS. To run the app, follow the project setup instruction below :)
 
 ## Project setup
 ```
